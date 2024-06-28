@@ -1,3 +1,4 @@
+// Comment for initializing git
 import React from "react";
 import Home from "./home/Home";
 import header from "./header.jpg";
